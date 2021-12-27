@@ -1,0 +1,56 @@
+body{
+	text-align: center;
+	background-color: lightpink;
+	font-family: sans-serif;
+}
+#border{
+	border: 4px solid yellow;
+	background-color: deeppink;
+	width: 500px;
+	height: auto;
+	margin: auto;
+	border-radius: 20px;
+}
+#bTitle{
+	color: #465651;
+}
+#gTitle{
+	text-decoration: overline;
+}
+#num{
+	border-radius: 9px;
+}
+#play:hover{
+	background-color: skyblue;
+}
+#play{
+	background-color: hotpink;
+	border-style: dotted;
+	border-color: lightgrey;
+	width: 150px;
+	height: 40px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	margin: auto;
+	margin-top: 12px;
+}
+table{
+	margin-top: 7px;
+	margin-left: 5px;
+	margin-bottom: 3px;
+}
+#result-table{
+	border: 2px solid orangered;
+	width: 75%;
+	height: auto;
+	margin: auto;
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+td{
+	margin-top: 100px;
+}
+.odd{
+	background-color: #df4646;
+}

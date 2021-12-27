@@ -1,0 +1,30 @@
+body{
+	text-align: center;
+	font-family: fantasy;
+}
+.border{
+	border-width: 8px;
+	border-color: darkblue;
+	border-style: solid;
+	border-radius: 15px;
+	margin-right: 500px;
+	margin-left: 500px;
+	margin-bottom: 30%;
+	background-color: lightblue;
+}
+.num input{
+	width: 90%;
+	height: 20px;
+	margin: 5px 5px 5px 5px;
+	border-radius: 15px;
+	border-color: deepskyblue;
+	border-width: 2px;
+}
+#run{
+	text-align: center;
+	outline: 5px darkgoldenrod;
+	width: 200px;
+	background-color: darkgreen;
+	color: #164565;
+	margin: auto;
+}
